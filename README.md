@@ -1,7 +1,7 @@
 Meteoro Crash
 ==============
 
-Meteoro crash es un divertido juego creado en Java, sientete libre de descargar el codigo
+Meteoro crash es un divertido juego creado en **Java**, sientete libre de descargar el codigo
 
 + Menu principal
 ![image](screenshots/captura1.png)
